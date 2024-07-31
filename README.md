@@ -9,3 +9,15 @@ server  :  gg/more
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=9ineskulls)
+
+<br>
+    <details>
+    <summary>Languages I Use</summary>
+    <br>
+    <p align="center">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" height="30" width="40"/>
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="30" width="40"/>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" height="30" width="40"/>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg" height="30" width="40"/>
+        <p align="center">*Mainly work in LUA & LUAU*</p>
+    </p>
