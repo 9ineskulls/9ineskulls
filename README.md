@@ -53,7 +53,7 @@ an external based Roblox script and UI for first & third person shooter games an
 
 <div
     align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9ineskulls&theme=dark" width="100%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9ineskulls&theme=dark" width="45%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9ineskulls&theme=dark" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9ineskulls&theme=transparent" width="100%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9ineskulls&theme=transparent" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9ineskulls&theme=transparent" width="45%">
 </div>
