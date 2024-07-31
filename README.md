@@ -1,23 +1,50 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=9ineskulls.rip+%7C+9ineskulls)](https://git.io/typing-svg)
-<img align="left" src="https://media.discordapp.net/attachments/1255692212717752513/1266447051844223076/f4d08fb5-b73e-40ce-b415-afb349031ae0.gif?ex=66ab1cfa&is=66a9cb7a&hm=01e230c31a943ecf6d8d214d12b6fdb42be53e25b0421658b546b684d057c446&=&width=540&height=540" width="147"/> 
+<p align="center">
+  <img src="https://cdn.discordapp.com/emojis/1165325300029198437.gif?size=160&quality=lossless" width="147">
+</p>
 
-```csharp
-github.com/9ineskulls
-discord : 9ineskulls
-server  :  gg/more
-```
-&zwnj; 
-&zwnj; 
-![](https://komarev.com/ghpvc/?username=9ineskulls)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&center=true&lines=9ineskulls.rip+|+9ineskulls">
+</p>
 
-<br>
-    <details>
-    <summary>Languages I Use</summary>
-    <br>
-    <p align="center">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" height="30" width="40"/>
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="30" width="40"/>
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" height="30" width="40"/>
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg" height="30" width="40"/>
-        <p align="center">*Mainly work in LUA & LUAU*</p>
-    </p>
+---
+
+<h3 
+    align="center"
+    style="font-weight: bold">
+    Languages
+</h3>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,lua,py">
+</div>
+<h3
+    align="center"
+    style="font-weight: bold">
+    Tools
+</h3>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,discord">
+</div>
+
+---
+
+<h3 
+    align="center"
+    style="font-weight: bold">
+    Discord Status
+</h3>
+<div
+    align="center">
+    <a href="https://discord.com/users/1120456393405771869" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/1120456393405771869">
+    </a>
+</div>
+
+---
+
+<div
+    align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=9ineskulls&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9ineskulls&theme=dark">
+</div>
