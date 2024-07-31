@@ -8,6 +8,15 @@
 
 ---
 
+<div
+    align="center">
+    <a href="https://discord.com/users/1120456393405771869" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/1120456393405771869">
+    </a>
+</div>
+
+---
+
 <h3 
     align="center"
     style="font-weight: bold">
@@ -15,7 +24,7 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,lua,py">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,lua,py,rust">
 </div>
 <h3
     align="center"
@@ -27,19 +36,6 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,discord">
 </div>
 
----
-
-<h3 
-    align="center"
-    style="font-weight: bold">
-    Discord Status
-</h3>
-<div
-    align="center">
-    <a href="https://discord.com/users/1120456393405771869" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/1120456393405771869">
-    </a>
-</div>
 
 ---
 
