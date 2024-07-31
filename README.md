@@ -8,12 +8,25 @@
 
 ---
 
-<div
-    align="center">
-    <a href="https://discord.com/users/1120456393405771869" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/1120456393405771869">
-    </a>
-</div>
+<h3
+    align="center"
+    style="font-weight: bold">
+    Hello, and welcome to my page!
+</h3>
+
+<p align="center">
+I'm a 19 year old script & software based developer from the United Kingdom
+</p>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    What I'm currently working on:
+</h3>
+
+<p align="center">
+an external based Roblox script and UI for first & third person shooter games and a couple none shooter related LUA scripts
+</p>
 
 ---
 
@@ -33,14 +46,14 @@
 </h3>
 <div
     align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,discord">
+    <img src="https://skillicons.dev/icons?i=vscode,gitlab,github,discord">
 </div>
-
 
 ---
 
 <div
     align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=9ineskulls&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9ineskulls&theme=dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9ineskulls&theme=dark" width="100%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9ineskulls&theme=dark" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9ineskulls&theme=dark" width="45%">
 </div>
