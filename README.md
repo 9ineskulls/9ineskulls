@@ -25,7 +25,7 @@ I'm a 19 year old script & software based developer from the United Kingdom
 </h3>
 
 <p align="center">
-an external based Roblox script and UI for first & third person shooter games and a couple none shooter related LUA scripts
+an internal based Roblox cheat with script execution and a bunch of LUA scripts for an upcoming script hub for said internal.
 </p>
 
 ---
