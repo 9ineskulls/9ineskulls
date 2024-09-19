@@ -15,7 +15,7 @@
 </h3>
 
 <p align="center">
-I'm a 19 year old script & software based developer from the United Kingdom
+I'm a 20 year old script / software developer and reverse engineer from the United Kingdom
 </p>
 
 <h3
