@@ -19,7 +19,7 @@
 
 </div>
 <div align="center">
-I'm a 20 year old script / software developer and reverse engineer from the United Kingdom
+I'm a 20 year old web, script and software developer from the UK with a passion for learning new things within the coding industry
 </a>
 
 <h3
