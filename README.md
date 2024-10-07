@@ -38,7 +38,7 @@ GUI designs for game cheats / trainers & working on a website for my portfolio
 <h3 
     align="center"
     style="font-weight: bold">
-    Languages I use
+    Coding languages I use
 </h3>
 
 </div>
@@ -49,7 +49,7 @@ GUI designs for game cheats / trainers & working on a website for my portfolio
   <h3
     align="center"
     style="font-weight: bold">
-    Tools I use
+    Coding tools / softwares I use
 </h3>
 
 </div>
