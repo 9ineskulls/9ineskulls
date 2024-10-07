@@ -30,7 +30,7 @@ I'm a 20 year old script / software developer and reverse engineer from the Unit
 
 </div>
 <div align="center">
-GUI designs for game cheats / trainers & also working on LUA based scripts for Roblox executors & games
+GUI designs for game cheats / trainers & working on a website for my portfolio
 </a>
 
 ---
@@ -38,12 +38,12 @@ GUI designs for game cheats / trainers & also working on LUA based scripts for R
 <h3 
     align="center"
     style="font-weight: bold">
-    Languages
+    Languages I use
 </h3>
 
 </div>
 <div align="center">
-  		<img src="https://skillicons.dev/icons?i=cpp,cs,lua,py,rust">
+  		<img src="https://skillicons.dev/icons?i=cpp,cs,rust,html,css,js,nodejs,php,powershell,py,lua,markdown,">
 </a>
 
   <h3
@@ -54,7 +54,7 @@ GUI designs for game cheats / trainers & also working on LUA based scripts for R
 
 </div>
 <div align="center">
-  		<img src="https://skillicons.dev/icons?i=vscode,gitlab,github,discord">
+  		<img src="https://skillicons.dev/icons?i=redux,dotnet,vscode,visualstudio,neovim,nestjs,obsidian,pytorch,">
 </a>
 
 ---
