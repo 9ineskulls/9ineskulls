@@ -1,7 +1,7 @@
 <div align="center">
-	<h6> click the dancing emo </h6>
+	<h6> click the Miyavi! </h6>
 	<a href="http://guns.lol/9ine">
-  		<img src="https://cdn.discordapp.com/emojis/1165325300029198437.gif?size=320&quality=lossless" width="294" />
+  		<img src="https://cdn.discordapp.com/emojis/1292944681679716362.webp?size=320&quality=lossless" width="294" />
 	</a>
 
 </div>
