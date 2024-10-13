@@ -15,58 +15,7 @@
     </td>
   </tr>
 </table>
-  <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="20" align="center" style="color: white;">Interests</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C++"/><br>C++
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50" alt="C#"/><br>C#
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JS"/><br>JS
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="ts"/><br>ts
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="50" height="50" alt="Swift"/><br>Swift
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python"/><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL"/><br>MySQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub"/><br>GitHub
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java"/><br>Java
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=rust" width="50" height="50"/><br>Rust
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=markdown" width="50" height="50" alt="Markdown"/><br>Markdown
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=lua" width="50" height="50"/><br>Lua
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/><br>VSC
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50"/><br>VSCM
-      </td>
-    </tr>
-  </tbody>
 </table>
 </div>
+
+<div align="center">This is not finished in the slightest if you wanna know what I do hmu on discord @9ineskulls | 1120456393405771869 </div>
