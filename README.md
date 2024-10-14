@@ -17,5 +17,3 @@
 </table>
 </table>
 </div>
-
-<div align="center">This is not finished in the slightest if you wanna know what I do hmu on discord @9ineskulls | 1120456393405771869 </div>
