@@ -5,7 +5,7 @@
       <th colspan="8" align="center" style="color: white;">9ineskulls's Activity Status</th>
     </tr>
         <td width="50%" align="center">
-        <img src="https://lanyard.cnrad.dev/api/1120456393405771869?theme=dark&animated=true&useDisplayName=true&idleMessage=Idle%20rn%2C%20probably%20doing%20something%20else%2C%20feel%20free%20to%20talk%20me%20of%20course&borderRadius=15px&bg=ffffff00&waveColor=fc4e72-dark&imgStyle=circle" title="Me on Discord rn" />
+<img src="https://lanyard.kyrie25.me/api/1120456393405771869?gradient=4fff9e-4fff9e&animated=true&bg=000&useDisplayName=true&showBanner=animated&waveColor=8426ff&waveSpotifyColor=565655-light&imgStyle=square&bannerFilter=brightness(0.8)%20blur(2px)&hideDiscrim=false&borderRadius=20px&idleMessage=%3C%2Fbeing+lazy%3E..." height="190vh"/>
     </td>
   <td width="50%" align="center">
         <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ijtmgowkoze2obip6uoogg57&redirect=true">
