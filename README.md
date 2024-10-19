@@ -3,6 +3,7 @@ class ProfileInfo:
     def __init__(self):
         self.name = "9ineskulls"
         self.age = "20 years old"
+        self.status = "taken , Yeona <3"
         self.location = "United Kingdom"
         self.hobbies = "Coding , Designing"
         self.mainlang = "C++ , LUA , Rust , Markdown"
