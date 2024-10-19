@@ -1,12 +1,3 @@
-<br>
-<p align="center">
-    <kbd>
-        <img src="https://i.pinimg.com/originals/d1/5c/de/d15cdee9e339dbb0fcb5f83a938e1717.gif"></img>
-    </kbd>
-</p>
-
-
-
 ```py 
 class ProfileInfo:
     def __init__(self):
