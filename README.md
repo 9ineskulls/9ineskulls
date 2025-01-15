@@ -1,10 +1,18 @@
-<img align="left" src="https://github.com/user-attachments/assets/1a2a18d2-5e78-42ef-8666-58d6c7b3095d" width="147"/> 
+<img align="left" src="https://github.com/user-attachments/assets/78806313-58aa-45fc-8836-a19b2ff791c5" width="270"/> 
 
-```csharp
-nam  $  9ineskulls , Miyavi <3
-dob  $  25/11/2004 | 20 yrs old
-loc  $  London , United Kingdom
-dsc  $  ID = 1120456393405771869
-lan  $  C++ , C# , Rust , Python
-web  $  HTML , CSS , JavaScript
+```css
+- 9ineskulls.dev ------------------------------------------- -
+. Name: ................................. 9ineskulls, Miyavi .
+. Age: .............................. 25/11/2004, 20 yrs old .
+. Location: ......................... London, United Kingdom .
+.                                                            .
+. Languages.prog ..................... C++, C#, Rust, Python .
+. Languages.webd ..................... HTML, CSS, JSON, YAML .
+. Languages.irl .................. English, Russian, Swedish .
+. Hobbies.code ................. Game Scripting, UI Creation .
+. Hobbies.irl ...... PC Building, PC Repairs, Fashion Design .
+.                                                            .
+- Contact Me ----------------------------------------------- -
+. Discord: ..................................... @9ineskulls .
+. Discord ID: .......................... 1120456393405771869 .
 ```
