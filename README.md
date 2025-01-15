@@ -1,7 +1,6 @@
 <img align="left" src="https://github.com/user-attachments/assets/78806313-58aa-45fc-8836-a19b2ff791c5" width="270"/> 
 
-```css
-
+```
 - 9ineskulls.dev ------------------------------------------- -
 . Name: ................................. 9ineskulls, Miyavi .
 . Age: .............................. 25/11/2004, 20 yrs old .
@@ -17,5 +16,4 @@
 . Discord: ..................................... @9ineskulls .
 . Discord ID: .......................... 1120456393405771869 .
 . Email: .............................. 9ineskulls@gmail.com .
-
 ```
