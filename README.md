@@ -6,7 +6,7 @@
 . Age: ........................................... 25/11/2004, 20 yrs old .
 . Location: ...................................... London, United Kingdom .
 .                                                                         .
-. Languages.prog .................................. C++, C#, Rust, Python .
+. Languages.prog ............................. C++, C#, Rust, Python, LUA .
 . Languages.webd .................................. HTML, CSS, JSON, YAML .
 . Languages.irl ............................... English, Russian, Swedish .
 . Hobbies.code .............................. Game Scripting, UI Creation .
