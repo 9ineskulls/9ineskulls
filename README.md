@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/user-attachments/assets/a81991a0-3471-48b8-8a98-d6b2bbbfa563" width="290"/> 
+<img align="left" src="https://github.com/user-attachments/assets/a81991a0-3471-48b8-8a98-d6b2bbbfa563" width="285"/> 
 
 ```
 - 9ineskulls.dev ---------------------------------------------------------- -
