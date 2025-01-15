@@ -19,6 +19,8 @@
 ```
 
 <div align="left">
-  <a href="discord.com/users/1120456393405771869"><img src="https://img.shields.io/badge/Discord-D14836?style=for-the-badge&logo=discord&logoColor=black&color=white" /></a>
-  <a href="9ineskulls@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black&color=white" /></a>
-  <a href="github.com/9ineskulls"><img src="https://img.shields.io/badge/Github-D14836?style=for-the-badge&logo=github&logoColor=black&color=white" /></a>
+  <a href="https://discord.com/users/1120456393405771869"><img src="https://img.shields.io/badge/discord-D14836?style=for-the-badge&logo=discord&logoColor=black&color=white" /></a>
+  <a href="mailto:9ineskulls@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black&color=white" /></a>
+  <a href="https://github.com/9ineskulls"><img src="https://img.shields.io/badge/GitHub-D14836?style=for-the-badge&logo=github&logoColor=black&color=white"/>
+  </a>
+</div>
