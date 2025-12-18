@@ -1,1 +1,10 @@
-<img width="2560" height="686" alt="68747470733a2f2f696d672e697463682e7a6f6e652f6157316e4c7a45304e7a6b774d7a59784c6e42755a773d3d2f6f726967696e616c2f7870344445372e706e67 (1)" src="https://github.com/user-attachments/assets/d0d66dc7-1cfa-4e50-a608-674bb89d7065" />
+<p align="center">
+  <img
+    width="2560"
+    height="686"
+    alt="header image"
+    src="https://github.com/user-attachments/assets/d0d66dc7-1cfa-4e50-a608-674bb89d7065"
+  />
+  <br />
+  <a href="https://9ineskulls.dev">https://9ineskulls.dev</a>
+</p>
