@@ -7,7 +7,6 @@
   />
 </p>
 
-<!-- 9 -->
 <p align="center">
   <img src="https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -20,7 +19,6 @@
   <img src="https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<!-- 6 -->
 <p align="center">
   <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -30,7 +28,6 @@
   <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<!-- 4 -->
 <p align="center">
   <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -38,7 +35,6 @@
   <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<!-- 2 -->
 <p align="center">
   <img src="https://img.shields.io/badge/windows_11-000000?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/arch_linux-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
